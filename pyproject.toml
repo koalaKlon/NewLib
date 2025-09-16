@@ -14,4 +14,4 @@ dependencies = [
 ]
 
 [tool.setuptools.packages.find]
-include = ["change_history_logger"]
+include = ["change_logger"]
