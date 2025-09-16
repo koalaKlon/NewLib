@@ -12,3 +12,6 @@ authors = [
 dependencies = [
     "pymongo>=4.0",
 ]
+
+[tool.setuptools.packages.find]
+include = ["change_history_logger"]
